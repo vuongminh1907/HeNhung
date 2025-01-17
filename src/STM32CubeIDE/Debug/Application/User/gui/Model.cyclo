@@ -1,0 +1,11 @@
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:11:1:Model::Model()	1
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:13:5:int Model::getScore() const	1
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:17:5:int Model::getHighScore() const	1
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:21:5:int Model::getWeight() const	1
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:25:5:int Model::getScale() const	1
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:87:6:void Model::setScore(int)	3
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:96:6:void Model::setHighScore(int)	2
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:103:6:void Model::setWeight(int)	2
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:29:6:void Model::tick()	13
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:110:6:void Model::setScale(int)	2
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/model/Model.cpp:117:6:void Model::setCurrentScreen(ScreenState)	1

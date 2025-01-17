@@ -1,0 +1,12 @@
+../../TouchGFX/gui/include/gui/screen1_screen/Screen1Presenter.hpp:28:13:Screen1Presenter::~Screen1Presenter()	1
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:20:6:virtual void Screen1Presenter::deactivate()	1
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:25:6:virtual void Screen1Presenter::updateScore(int)	1
+../../TouchGFX/gui/include/gui/screen1_screen/Screen1Presenter.hpp:28:13:virtual Screen1Presenter::~Screen1Presenter()	1
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:10:6:virtual void Screen1Presenter::activate()	1
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:30:6:virtual void Screen1Presenter::updateHighScore(int)	1
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:45:6:virtual void Screen1Presenter::updateScale()	1
+../../TouchGFX/gui/include/gui/screen1_screen/Screen1Presenter.hpp:28:13:virtual void* Screen1Presenter::_ZThn4_N16Screen1PresenterD1Ev()	1
+../../TouchGFX/gui/include/gui/screen1_screen/Screen1Presenter.hpp:31:18:virtual void Screen1Presenter::_ZThn4_N16Screen1Presenter11updateScoreEi(int)	1
+../../TouchGFX/gui/include/gui/screen1_screen/Screen1Presenter.hpp:33:18:virtual void Screen1Presenter::_ZThn4_N16Screen1Presenter12updateWeightEi(int)	1
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:4:1:Screen1Presenter::Screen1Presenter(Screen1View&)	1
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/screen1_screen/Screen1Presenter.cpp:36:6:void Screen1Presenter::resetHighScore()	1

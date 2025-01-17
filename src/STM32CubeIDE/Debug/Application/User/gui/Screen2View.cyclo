@@ -1,0 +1,11 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:15:6:virtual void Screen2View::tearDownScreen()	1
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:32:6:virtual void Screen2View::buttonClicked()	1
+../../TouchGFX/gui/include/gui/screen2_screen/Screen2View.hpp:11:13:Screen2View::~Screen2View()	1
+../../TouchGFX/gui/include/gui/screen2_screen/Screen2View.hpp:11:13:virtual Screen2View::~Screen2View()	1
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:5:1:Screen2View::Screen2View()	1
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:10:6:virtual void Screen2View::setupScreen()	1
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:20:6:void Screen2View::displayScore(int)	1
+C:/TouchGFXProjects/MyApplication_4/TouchGFX/gui/src/screen2_screen/Screen2View.cpp:26:6:void Screen2View::displayHighScore(int)	1

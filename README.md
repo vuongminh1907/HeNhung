@@ -6,7 +6,7 @@ Báo cáo nhóm 8 - Hệ nhúng
 
 ## Thành viên
 - **Vương Đình Minh** - 20210610  
-- **Nguyễn SỸ Trọng** - 20210866  
+- **Nguyễn Sỹ Trọng** - 20210866  
 - **Nguyễn Minh Tú** - 20215502  
 
 ## Màn hình game
